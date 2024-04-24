@@ -5,7 +5,7 @@ The core of the work consisited of replicating the models described in three pap
 predicting credit card fraud.
 
 The jupyter notebooks contained here:
-1. Credit Fraud Syn Data V2 - This notebook implements the models described in the three papers listed below using data set 1.
+1. Credit Fraud Syn Data - This notebook implements the models described in the three papers listed below using data set 1.
 2. Project Dataset IEEE - This notebook implements the models described in the three papers listed below using data set 2.
 
 The datasets used for training and evaluating the models:
