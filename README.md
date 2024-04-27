@@ -14,6 +14,12 @@ The datasets used for training and evaluating the models:
 
 2. https://www.kaggle.com/c/ieee-fraud-detection/data
 
+The accompanying paper and presentation slides:
+1. Piacesi ITCS 5156-051 Project Paper.pdf
+2. Piacesi ITCS 5156-051 Project Slides.pdf
+
+Presentation Video:  https://youtu.be/8k4cWkN-HeM
+
 The software development was based on the models presented in the following 3 papers:
 
 Chung, Jiwon, and Kyung-Ho Lee. “Credit Card Fraud Detection: An Improved 
