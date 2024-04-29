@@ -10,7 +10,7 @@ The jupyter notebooks contained here:
 3. Project Dataset IEEEE-Deep learning:  This nootebook is the start of future work on the topic.  Includes first attempt at model in Esenogho et al.
 
 
-The datasets used for training and evaluating the models:
+The datasets used for training and evaluating the models were too large for upload.  Links to the datasets:
 1. https://www.kaggle.com/datasets/kartik2112/fraud-detection
 2. https://www.kaggle.com/c/ieee-fraud-detection/data
 
